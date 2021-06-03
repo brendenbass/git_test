@@ -1,0 +1,1 @@
+This is Brenden's first git project! I feel like a boss using terminal commands!
